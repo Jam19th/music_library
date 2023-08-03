@@ -1,9 +1,9 @@
 
 //Import Dependencies
-import {createContext} from 'react'
+// import {createContext} from 'react'
 
 // Create Context Object
-export const SearchContext = createContext({
-    term: '',
-    handleSearch: () => {}
-})
+// export const SearchContext = createContext({
+    // term: '',
+    // handleSearch: () => {}
+// })
